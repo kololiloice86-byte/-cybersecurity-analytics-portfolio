@@ -1,0 +1,41 @@
+cybersecurity-portfolio/
+│
+├── README.md                          # Main portfolio page
+├── setup.py
+├── requirements.txt
+├── .gitignore
+│
+├── projects/
+│   ├── network-traffic-analyzer/
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   ├── scripts/
+│   │   │   ├── __init__.py
+│   │   │   ├── real_time_monitor.py
+│   │   │   ├── advanced_threat_detector.py
+│   │   │   ├── traffic_analyzer.py
+│   │   │   └── visualization.py
+│   │   ├── config/
+│   │   │   ├── __init__.py
+│   │   │   └── detection_rules.json
+│   │   ├── samples/
+│   │   │   └── README.md
+│   │   └── docs/
+│   │       ├── INSTALLATION.md
+│   │       ├── USAGE_GUIDE.md
+│   │       └── SCREENSHOTS.md
+│   │
+│   ├── web-vulnerability-scanner/
+│   │   └── README.md
+│   ├── password-manager/
+│   │   └── README.md
+│   ├── secure-file-storage/
+│   │   └── README.md
+│   ├── phishing-detection/
+│   │   └── README.md
+│   └── custom-vpn/
+│       └── README.md
+│
+└── assets/
+    └── images/
+        └── banner.png
